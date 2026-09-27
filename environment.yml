@@ -1,0 +1,16 @@
+name: afridatacyberjohn-code-v1.0
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - pyarrow
+  - nbformat
+  - pip
+  - pip:
+      - datasets

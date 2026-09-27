@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use the AFRIDATACYBERJOHN code, please cite this software repository and the associated dataset."
+title: "AFRIDATACYBERJOHN Code"
+type: software
+version: "1.0.0"
+date-released: 2026-09-27
+authors:
+  - family-names: Ajayi
+    given-names: John Ojo
+    orcid: "https://orcid.org/0000-0002-8063-6070"
+repository-code: "https://github.com/ajayi171/AFRIDATACYBERJOHN-code"
+license: MIT
+keywords:
+  - cybersecurity
+  - intrusion detection
+  - mobile money
+  - USSD
+  - synthetic data
+  - behavioural matching
+  - hard negatives
+  - forensic validation
+references:
+  - type: dataset
+    title: "AFRIDATACYBERJOHN: An Africa-Centric Mobile Money and USSD Cybersecurity Dataset for Behavioural Intrusion Detection and Transaction Security"
+    authors:
+      - family-names: Ajayi
+        given-names: John Ojo
+        orcid: "https://orcid.org/0000-0002-8063-6070"
+    year: 2026
+    doi: "10.5281/zenodo.22934273"
